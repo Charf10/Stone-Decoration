@@ -3,16 +3,11 @@
     padding: 0;
     border: 0;
 }
-#body{
-
-}
 #menu li {
     float: right;
     list-style: none;
     margin-right: 30px;
     line-height: 75px;
-
-
 }
 #logo{
     float:left;
@@ -26,9 +21,7 @@
     overflow: hidden;
     position:relative;
 }
-#description{
-    color: black;
-}
+
 #image{
     height:600px;
     background: url('../images/chemini.jpg') no-repeat center center;
@@ -54,7 +47,8 @@
     bottom:30px;
     right:150px;
 
-    position: absolute;
+    position: absolute;   
+}
+#welcome{
 
-    
 }

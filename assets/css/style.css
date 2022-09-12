@@ -110,7 +110,7 @@ body {
     font-size: 180%;
 }
 
-/* class types and times */
+/* Open time and location*/
 
 
 #open-days {
@@ -147,4 +147,31 @@ body {
     box-sizing: border-box;
     text-align: center;
 
+}
+
+.social-networks{
+    text-align: center; 
+    
+}
+.social-networks > li {
+    display: inline;
+}
+
+.social-networks i {
+    font-size: 160%;
+    margin: 1%;
+    padding: 5%;
+    color: #3a3a3a;
+  
+}
+/*Gallery*/
+#photos{
+    clear:both;
+    line-height: 0;
+    column-count: 3;
+    column-gap: 0;
+
+}
+#photos > img{
+    width:100%
 }

@@ -53,3 +53,26 @@ body {
     animation-duration:5s;
     animation-fill-mode:forward;
 }
+
+#motive-words{
+    font-size: 130%;
+    font-family: oswal, sans-serif;
+    text-align: center;
+    
+    letter-spacing:4px;
+
+    width:400px;
+    height:200px;
+    
+    padding-top:40px;
+    padding-left:10px;
+
+    background-color: rgb(77, 60, 60);
+
+    bottom:30px;
+    right:150px;
+
+    position: absolute;
+
+    
+}

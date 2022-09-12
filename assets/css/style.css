@@ -148,6 +148,7 @@ body {
     text-align: center;
 
 }
+/*social-networks*/
 
 .social-networks{
     text-align: center; 
@@ -179,19 +180,19 @@ body {
 .signup-form{
     margin:150px 10% 0 0;
     color:#930a0a;
-    
+    background-color: bisque;
     max-width:400px;
     position:absolute;
-    left:10%;
+    left:40%;
     padding:30px;
 }
 .signup-form h2{
-    color: burlywood;
+    color: #930a0a;
     margin-bottom:20px;
 }
 .text-input{
     background:transparent;
-   
+    
     width:100%;
     height:25px;
     margin: 5px 0 20px 0;

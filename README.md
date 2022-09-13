@@ -54,24 +54,9 @@ The project is responsive to different screen sizes including mobile and tablets
 - HTML
 No errors were returned when passing through the official W3C validator
 - CSS
+![W3C](https://github.com/Charf10/Stone-Decoration/blob/main/assets/images/Checked_W3.jpg?raw=true)
+
 No errors were found when passing through the official (Jigsaw) validator
-![index_valid](https://github.com/KhanRana/community_boxing_club/blob/main/assets/media/index_pass.png)
-![gallery_valid](https://github.com/KhanRana/community_boxing_club/blob/main/assets/media/gallery_validated.png)
-![about_valid](https://github.com/KhanRana/community_boxing_club/blob/main/assets/media/about_pass.png)
-![member_valid](https://github.com/KhanRana/community_boxing_club/blob/main/assets/media/membership_validated.png)
-![css_valid](https://github.com/KhanRana/community_boxing_club/blob/main/assets/media/css_validated.png)
-
-The website membership form is also validated for type.
-[type_valid](https://github.com/KhanRana/community_boxing_club/blob/main/assets/media/type_check.png)
-
-Finally, the website is also tested by the light house and returned oustanding results.
-![light_house_report](https://github.com/KhanRana/community_boxing_club/blob/main/assets/media/lighthouse_report.png)
-
-- Fixed Bugs
-There was an error when submitting the membership.html. It turns out we cannot 'required' to a drop down select. 
-When the 'required' was removed from the select, html returned no errors.
-Footer was moving up the screen on about.html in mobile and tablet view. I have fixed is by sticking it and moving it to the bottom using '100vh'.
-Previous small screen bug fix created issue for larger screen use, which now has been fixed by using body 100vh and positioning footer relatively.
 
 ## Deployment
 The site was deployed to GitHub pages. The steps to deploy are as follows:

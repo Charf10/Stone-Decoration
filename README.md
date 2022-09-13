@@ -3,29 +3,20 @@
 # Stone Decoration
 Stone Decoration is a website developed for the customer who has a small factory of stone which is used for decoration of homes, offices, gardens, etc. TYhe client is looking to expend his newtwork by advertising his products.
 
-![Menu](https://github.com/Charf10/Stone-Decoration/main/assets/images/Menu.png) 
-
-
-![Menu](https://github.com/Charf10/Stone-Decoration/blob/main/assets/images/Menu.png)
-![menu](https://github.com/Charf10/Stone-Decoration/blob/main/assets/images/menu.jpg?raw=true)
-![navigation](https://github.com/Charf10/Stone-Decoration/blob/0b9a971e85949914065b3592018747f753dccac7/assets/images/7.jpg)
-
-
-![navigation](https://github.com/KhanRana/community_boxing_club/blob/main/assets/media/responsive.png)
-
 ## Features
 In this section, different parts of the website are breifly shown with and describe with images.
 
-### Navigation Bar 
-Featured on all three pages, the full responsive navigation bar includes links to the Logo, Home page, About Us, Gallery, Membership page and is identical in each page to allow for easy navigation.
+### Menu Bar 
+Featured on all three pages, the full responsive menu bar includes links to the Home page, Gallery and Sign Up page and is identical in each page to allow for easy navigation.
 
-![navigation](https://github.com/KhanRana/community_boxing_club/blob/main/assets/media/navigation.png?raw=true)
+![menu](https://github.com/Charf10/Stone-Decoration/blob/main/assets/images/menu.jpg?raw=true)
 
 
-### The banner imager
-The banner includes a photograph with text overlay to with a motivation quotation to keep training to get the results that they want.
-This section introduces the user to the club website with beautiful smily animation to grab their attention by welcoming them.
-![landing_image](https://github.com/KhanRana/community_boxing_club/blob/main/assets/media/banner.png)
+### The main image
+The image includes a photograph with text overlay to with a motivation quotation to keep training to get the results that they want.
+This section introduces the user to the stone decoration website with beautiful chimney to grab client attention by attracting them.
+![main image](https://github.com/Charf10/Stone-Decoration/blob/main/assets/images/main image.jpg?raw=true)
+![main image](https://github.com/KhanRana/community_boxing_club/blob/main/assets/media/banner.png)
 
 ### Motivation/reason section
 The club motivation/reasons section will allow the user to see the benefits of boxing, as well as the benefits of exercise.

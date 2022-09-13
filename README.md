@@ -23,31 +23,29 @@ The company features section will allow the client to see the characteristics of
 This should encourage the custmer to consider buy such as products.
 ![Company features](https://github.com/Charf10/Stone-Decoration/blob/main/assets/images/Company-logo.jpg?raw=true)
 
+### Company open days/ Location
+This section will allow the client to see the location of the ofices around the Uk and the time avaibility to meet the company team. .
 
-### Group Class times
-This section will allow the user to see exactly when the meetups will happen, where they will be located and how long the run will be in kilometers.
-This section will be updated as these times change to keep the user up to date.
-![class_times](https://github.com/KhanRana/community_boxing_club/blob/main/assets/media/class_times.png)
+![Location](https://github.com/Charf10/Stone-Decoration/blob/main/assets/images/Location.jpg?raw=true)
 
-##About Us
-This section describes clubs ambition and who they are motivating others to get fit and strong.
-![about_us_page](https://github.com/KhanRana/community_boxing_club/blob/main/assets/media/about.png)
+## Social Media
+This section shows the company activities, and it allows the client to easly cont them.
+![Social media](https://github.com/Charf10/Stone-Decoration/blob/main/assets/images/socialmedia.jpg?raw=true)
 
-## Gallery
-The gallery will provide the user with supporting photos and videos to see them in training. 
-This section is valuable to the user as they will be able to easily identify the types of events the organisation puts together.
-![gallery_page](https://github.com/KhanRana/community_boxing_club/blob/main/assets/media/gallery.png)
+## Gallery Page
+The gallery will provide the client with supporting pictures for better ideas. 
+This section is important for the client to understand the scop of the company industry.
+![gallery_page](https://github.com/Charf10/Stone-Decoration/blob/main/assets/images/gallery.jpg?raw=true)
 
-## The Membership Page
-This page will allow the user to get signed up to Love Running to start their running journey with the community. 
-The user will be able specify if they would like to take part in road, trail or both types of running. The user will 
-be asked to submit their full name, email address, age and reasons for joining the club.
-![membership_page](https://github.com/KhanRana/community_boxing_club/blob/main/assets/media/membership.png)
+## Sign up Page
+This page will allow the client to get signed up to Stone Decoration to start getting events organised by the company. 
 
-## Features Left to Implement
-Further details such as address & telephone number can be added to the footer if the website goes to a club owner.
-There is always room for improvement, and there is number of other feature that can be added: the one eature I did 
-have was fighter or list of ameature fighter on the website.
+![Signup](https://github.com/Charf10/Stone-Decoration/blob/main/assets/images/Signup.jpg?raw=true)
+
+## More to Implement
+
+There is always room for improvement, and there is number of other feature that can be added such as address & telephone number can be added to the footer.  
+
 
 ## Testing
 The project is responsive to different screen sizes including mobile and tablets.
@@ -90,5 +88,5 @@ The icons in the footer were taken from Font Awesome
 The website is inpired by various tutorials and websites, including but not limited to the code institute.
 
 - Media
-All photos are taken from open source website [UpSplash](https://unsplash.com/images).
-All videos are taken from open source website [Pexels](https://www.pexels.com/videos/)
+All photos are taken from open source website 
+All videos are taken from open source website 

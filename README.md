@@ -7,7 +7,7 @@ Stone Decoration is a website developed for the customer who has a small factory
 
 
 ![Menu](https://github.com/Charf10/Stone-Decoration/blob/main/assets/images/Menu.png)
-![menu](https://github.com/Charf10/Stone-Decoration/blob/main/assets/images/menu.jpg untracked)
+![menu](https://github.com/Charf10/Stone-Decoration/blob/main/assets/images/menu.jpg?raw=true)
 ![navigation](https://github.com/Charf10/Stone-Decoration/blob/0b9a971e85949914065b3592018747f753dccac7/assets/images/7.jpg)
 
 

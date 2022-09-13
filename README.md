@@ -15,7 +15,7 @@ Featured on all three pages, the full responsive menu bar includes links to the 
 ### The main image
 The image includes a photograph with text overlay to with a motivation quotation to keep training to get the results that they want.
 This section introduces the user to the stone decoration website with beautiful chimney to grab client attention by attracting them.
-![main image](https://github.com/Charf10/Stone-Decoration/blob/main/assets/images/main-image.jpg?raw=true)
+![main image](https://github.com/Charf10/Stone-Decoration/blob/main/assets/images/main.jpg?raw=true)
 
 
 ### Motivation/reason section
